@@ -1,7 +1,11 @@
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
 body {
+	background: black; 
     box-sizing: border-box;
     font-family: 'Patrick Hand', cursive; 
-    background-color: Black; 
     display: flex;
     justify-content: center;
     align-items: center;
